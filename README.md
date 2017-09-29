@@ -18,7 +18,7 @@ One major difference is that the example pairs for each score that were used in 
 Instead of one example per score value, three examples were included in the annotation instructions for each score value.
 This was found to improve task comprehension and annotation quality.
 The new examples were taken from the 2012 *MSRPar* and the 2013-2016 *Headlines* portions of the annotated *SemEval* STS corpora in English, and were then professionally translated into Serbian.
-The final annotation instructions (with examples) are available in [Serbian](./Annotation instructions - Serbian.md) and [English](./Annotation instructions - English.md).
+The final annotation instructions (with examples) are available in [Serbian](https://vukbatanovic.github.io/STS.news.sr/Annotation instructions - Serbian.md) and [English](https://vukbatanovic.github.io/STS.news.sr/Annotation instructions - English.md).
 
 Five annotators separately assigned semantic similarity scores in the 0-5 range to each pair in the corpus.
 They first scored a subset of 60 randomly selected pairs (~5% of the total), after which they proceeded to annotate the entire dataset.
@@ -52,6 +52,9 @@ When scores are rounded to their nearest integer value, their distribution in th
 
 ## References
 TBA
+
+## Acknowledgement
+The annotation of the Serbian STS News Corpus was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (*ReLDI*) via the Swiss National Science Foundation grant no. 160501.
 
 ## License
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)

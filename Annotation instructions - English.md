@@ -25,67 +25,79 @@ Tips:
 
 ## Scores and examples
 * (5) The two sentences are completely equivalent, as they mean the same thing.
-    *
-        * Bush plans to meet with Israeli Prime Minister Ariel Sharon and the new Palestinian prime minister, Mahmoud Abbas, in the Jordanian port of Aqaba on Wednesday.
-        * On Wednesday next week, Mr Bush will meet Israeli Prime Minister Ariel Sharon and new Palestinian leader Mahmoud Abbas in Aqaba, Jordan.
-    *
-        * The upcoming second-quarter earnings season will be particularly important in offering investors guidance, they say.
-        * They say second-quarter earnings reports will be key in giving investors that guidance.
-    *
-        * He later learned that the incident was caused by the Concorde's sonic boom.
-        * He later found out the alarming incident had been caused by Concorde's powerful sonic boom.
+    * Bush plans to meet with Israeli Prime Minister Ariel Sharon and the new Palestinian prime minister, Mahmoud Abbas, in the Jordanian port of Aqaba on Wednesday.
+
+      On Wednesday next week, Mr Bush will meet Israeli Prime Minister Ariel Sharon and new Palestinian leader Mahmoud Abbas in Aqaba, Jordan.
+
+    * The upcoming second-quarter earnings season will be particularly important in offering investors guidance, they say.
+
+      They say second-quarter earnings reports will be key in giving investors that guidance.
+
+    * He later learned that the incident was caused by the Concorde's sonic boom.
+
+      He later found out the alarming incident had been caused by Concorde's powerful sonic boom.
 
 * (4) The two sentences are mostly equivalent, but some unimportant details differ.
-    *
-        * Ricky Clemons' brief, troubled Missouri basketball career is over.
-        * Missouri kicked Ricky Clemons off its team, ending his troubled career there.
-    *
-        * Several states and the federal government later passed similar or more strict bans.
-        * Following California's lead, several states and the federal government passed similar or tougher bans.
-    *
-        * "It appears from our initial report that this was a textbook landing considering the circumstances," Burke said.
-        * Said Mr. Burke: "It was a textbook landing considering the circumstances."
+    * Ricky Clemons' brief, troubled Missouri basketball career is over.
+
+      Missouri kicked Ricky Clemons off its team, ending his troubled career there.
+
+    * Several states and the federal government later passed similar or more strict bans.
+
+      Following California's lead, several states and the federal government passed similar or tougher bans.
+
+    * "It appears from our initial report that this was a textbook landing considering the circumstances," Burke said.
+
+      Said Mr. Burke: "It was a textbook landing considering the circumstances."
 
 * (3) The two sentences are roughly equivalent, but some important information differs/missing.
-    *
-        * It was the third time in four years that wildfires forced the park to close.
-        * For the third time in four years wildfires closed Mesa Verde National Park, the country’s only park dedicated to ancient ruins.
-    *
-        * Coupling, an American version of a hit British comedy, will get the valuable Thursday 9:30 p.m. time slot.
-        * Coupling, an American version of a hit British comedy, will couple with Friends on Thursdays.
-    *
-        * Selenski descended down the wall and used the mattress to climb over razor wire.
-        * Selenski used the mattress to scale a 10-foot razor wire, Fischi said.
+    * It was the third time in four years that wildfires forced the park to close.
+
+      For the third time in four years wildfires closed Mesa Verde National Park, the country’s only park dedicated to ancient ruins.
+
+    * Coupling, an American version of a hit British comedy, will get the valuable Thursday 9:30 p.m. time slot.
+
+      Coupling, an American version of a hit British comedy, will couple with Friends on Thursdays.
+
+    * Selenski descended down the wall and used the mattress to climb over razor wire.
+
+      Selenski used the mattress to scale a 10-foot razor wire, Fischi said.
 
 * (2) The two sentences are not equivalent, but share some details.
-    *
-        * The company didn't detail the costs of the replacement and repairs.
-        * But company officials expect the costs of the replacement work to run into the millions of dollars.
-    *
-        * Preliminary reports were that the men were not seen together at the airport, sources said.
-        * The men had Pakistani passports and reportedly were seen together at the airport earlier in the evening, law enforcement sources said.
-    *
-        * Chinese icebreaker changes course towards suspicious objects.
-        * Chinese search plane finds 'suspicious objects'.
+    * The company didn't detail the costs of the replacement and repairs.
+
+      But company officials expect the costs of the replacement work to run into the millions of dollars.
+
+    * Preliminary reports were that the men were not seen together at the airport, sources said.
+
+      The men had Pakistani passports and reportedly were seen together at the airport earlier in the evening, law enforcement sources said.
+
+    * Chinese icebreaker changes course towards suspicious objects.
+
+      Chinese search plane finds 'suspicious objects'.
 
 * (1) The two sentences are not equivalent, but are on the same topic.
-    *
-        * Syria urges refugees to return.
-        * Syria's tenuous truce takes hold.
-    *
-        * Islamist Morsi Wins Egypt's Presidential Election.
-        * Al-Shater to run in presidential election in Egypt.
-    *
-        * Japan PM calls for quicker tsunami waste processing.
-        * Japan marks one year since quake and tsunami disaster.
+    * Syria urges refugees to return.
+
+      Syria's tenuous truce takes hold.
+
+    * Islamist Morsi Wins Egypt's Presidential Election.
+
+      Al-Shater to run in presidential election in Egypt.
+
+    * Japan PM calls for quicker tsunami waste processing.
+
+      Japan marks one year since quake and tsunami disaster.
 
 * (0) The two sentences are on different topics.
-    *
-        * Moderate tremor in the Central Mediterranean.
-        * Iran: Moderate candidate wins presidential vote.
-    *
-        * 1 person killed in sectarian clashes in Lebanon.
-        * 180 killed in Iran earthquake.
-    *
-        * Malaysia Airlines plane crashes on Ukraine-Russia border.
-        * US: Russia Massing Troops on Ukraine Border.
+    * Moderate tremor in the Central Mediterranean.
+
+      Iran: Moderate candidate wins presidential vote.
+
+    * 1 person killed in sectarian clashes in Lebanon.
+
+      180 killed in Iran earthquake.
+
+    * Malaysia Airlines plane crashes on Ukraine-Russia border.
+
+      US: Russia Massing Troops on Ukraine Border.
