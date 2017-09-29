@@ -18,7 +18,7 @@ One major difference is that the example pairs for each score that were used in 
 Instead of one example per score value, three examples were included in the annotation instructions for each score value.
 This was found to improve task comprehension and annotation quality.
 The new examples were taken from the 2012 *MSRPar* and the 2013-2016 *Headlines* portions of the annotated *SemEval* STS corpora in English, and were then professionally translated into Serbian.
-The final annotation instructions (with examples) are available in [Serbian](https://vukbatanovic.github.io/STS.news.sr/Annotation instructions - Serbian.md) and [English](https://vukbatanovic.github.io/STS.news.sr/Annotation instructions - English.md).
+The final annotation instructions (with examples) are available in [Serbian](https://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20Serbian.md) and [English](https://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20English.md).
 
 Five annotators separately assigned semantic similarity scores in the 0-5 range to each pair in the corpus.
 They first scored a subset of 60 randomly selected pairs (~5% of the total), after which they proceeded to annotate the entire dataset.
