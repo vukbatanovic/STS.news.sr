@@ -19,7 +19,7 @@ Do the statements refer to the exact same person, action, event, idea, or thing?
 Or, are they similar but differ according to either large or small details?
 
 Tips:
-* Be precise in your assignments and try to avoid overusing any one of the category labels (e.g. don’t just label most of the pairs as “mostly equivalent” or “roughly equivalent”).
+* Be precise in your assignments and try to avoid overusing any one of the category labels (e.g. don't just label most of the pairs as "mostly equivalent" or "roughly equivalent").
 * Be careful of subtle differences between the pairs that have an important impact on what is being said or described.
 * Ignore grammatical errors and awkward wordings within the statements as long as they do not obscure what a statement is supposed to convey.
 
@@ -53,7 +53,7 @@ Tips:
 * (3) The two sentences are roughly equivalent, but some important information differs/missing.
     * It was the third time in four years that wildfires forced the park to close.
 
-      For the third time in four years wildfires closed Mesa Verde National Park, the country’s only park dedicated to ancient ruins.
+      For the third time in four years wildfires closed Mesa Verde National Park, the country's only park dedicated to ancient ruins.
 
     * Coupling, an American version of a hit British comedy, will get the valuable Thursday 9:30 p.m. time slot.
 
