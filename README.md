@@ -1,10 +1,10 @@
 # STS.news.sr - The Serbian Semantic Textual Similarity News Corpus
 The Serbian STS News Corpus consists of 1192 pairs of sentences in Serbian gathered from news sources on the web.
 Each sentence pair was manually annotated with fine-grained semantic similarity scores on the 0-5 scale.
-The final scores were obtained by averaging the scores of five annotators.
+The final scores were obtained by averaging the individual scores of five annotators.
 
 ## Corpus creation
-The sentence pairs in this dataset were taken from the [Serbian Paraphrase Corpus](https://vukbatanovic.github.io/paraphrase.sr/) (*paraphrase.sr*).
+The sentence pairs in this dataset were taken from the [Serbian Paraphrase Corpus (*paraphrase.sr*)](https://vukbatanovic.github.io/paraphrase.sr/).
 Details on the construction of that corpus can be found on the *paraphrase.sr* repository and in the papers listed in its reference section.
 
 Typographical errors within the 1194 sentence pairs of the Serbian Paraphrase Corpus were manually corrected.
@@ -18,7 +18,7 @@ One major difference is that the example pairs for each score that were used in 
 Instead of one example per score value, three examples were included in the annotation instructions for each score value.
 This was found to improve task comprehension and annotation quality.
 The new examples were taken from the 2012 *MSRPar* and the 2013-2016 *Headlines* portions of the annotated *SemEval* STS corpora in English, and were then professionally translated into Serbian.
-The final annotation instructions (with examples) are available in [Serbian](https://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20Serbian.md) and [English](https://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20English.md).
+The final annotation instructions (with examples) are available in [Serbian](https://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20Serbian) and [English](https://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20English).
 
 Five annotators separately assigned semantic similarity scores in the 0-5 range to each pair in the corpus.
 They first scored a subset of 60 randomly selected pairs (~5% of the total), after which they proceeded to annotate the entire dataset.
