@@ -1,6 +1,6 @@
 # Instructions used in STS.news.sr annotation
 This document contains the English version of the instructions used in the annotation of the [Serbian STS News Corpus (*STS.news.sr*)](https://vukbatanovic.github.io/STS.news.sr/).
-The general instructions are identical to the ones used in the annotations for the [*SemEval* STS shared task datasets (2012-2017)](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page).
+The general guidelines are identical to the ones used in the annotations for the [*SemEval* STS shared task datasets (2012-2017)](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page).
 However, this document contains different examples for each score value.
 Furthermore, instead of one example per score value, there are three examples per score - this was found to improve task comprehension and annotation quality.
 The examples were taken from the *MSRPar* (2012) and the *Headlines* (2013-2016) portions of the annotated *SemEval* STS corpora in English, and were then professionally translated into Serbian.

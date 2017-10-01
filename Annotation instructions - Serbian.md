@@ -1,6 +1,6 @@
 # Uputstva korišćena u anotaciji STS.news.sr korpusa
 Ovaj dokument sadrži srpsku verziju uputstava korišćenih u anotaciji [srpskog korpusa kratkih novinskih tekstova za određivanje semantičke sličnosti (*STS.news.sr*)](https://vukbatanovic.github.io/STS.news.sr/).
-Opšta uputstva su identična onima koja su korišćena u anotacijama skupova podataka sa [*SemEval* zajedničkih zadataka na temu određivanja semantičke sličnosti kratkih tekstova (2012-2017)](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page).
+Opšte smernice su identične onima koje su korišćene u anotacijama skupova podataka sa [*SemEval* zajedničkih zadataka na temu određivanja semantičke sličnosti kratkih tekstova (2012-2017)](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page).
 Međutim, ovaj dokument sadrži drugačije primere za svaku od ocena.
 Pored toga, umesto jednog primera za svaku ocenu, navedena su po tri primera za svaku ocenu - zaključeno je da ovo povećava razumljivost zadatka i kvalitet anotacije.
 Primeri su preuzeti iz *MSRPar* (2012) i *Headlines* (2013-2016) delova anotiranih *SemEval* STS korpusa na engleskom, a zatim su profesionalno prevedeni na srpski.

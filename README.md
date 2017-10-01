@@ -15,7 +15,7 @@ The remaining 1192 pairs were annotated with fine-grained semantic similarity sc
 ## Corpus annotation
 The annotation methodology followed the one established in the [*SemEval* STS shared tasks](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page) (2012-2017).
 One major difference is that the example pairs for each score that were used in the *SemEval* STS annotation instructions were replaced by new ones.
-Instead of one example per score value, three examples were included in the annotation instructions for each score value.
+Instead of one example per score value, three examples were included in the annotation guidelines for each score value.
 This was found to improve task comprehension and annotation quality.
 The new examples were taken from the 2012 *MSRPar* and the 2013-2016 *Headlines* portions of the annotated *SemEval* STS corpora in English, and were then professionally translated into Serbian.
 The final annotation instructions (with examples) are available in [Serbian](https://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20Serbian) and [English](https://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20English).
