@@ -29,7 +29,7 @@ The [STSAnno](https://vukbatanovic.github.io/STSAnno/) tool was used in the anno
 The final semantic similarity scores for each sentence pair were obtained by averaging the scores of individual annotators.
 
 ## Corpus format
-The Serbian STS News Corpus is available as a tab-separated .txt file - [STS.news.sr.txt](http://github.com/vukbatanovic/STS.news.sr/blob/master/STS.news.sr.txt).
+The Serbian STS News Corpus is available as a tab-separated .txt file - *[STS.news.sr.txt](http://github.com/vukbatanovic/STS.news.sr/blob/master/STS.news.sr.txt)*.
 The file contains 8 tab-separated columns:
 * Column 1 - the final semantic similarity score, obtained as the average of individual annotator scores.
 * Columns 2-6 - the individual scores of all five annotators.
@@ -42,7 +42,7 @@ The file is encoded in UTF-8.
 ## Corpus statistics
 The average annotator self-agreement score, expressed in terms of the Pearson correlation coefficient *r*, is 0.93.
 The average inter-rater correlation between an annotator and the averaged scores of all other annotators is 0.92, which is effectively the upper bound for STS model performance on this dataset.
-STS.news.sr contains around 64 thousand tokens, making the average sentence length around 27 tokens.
+*STS.news.sr* contains around 64 thousand tokens, making the average sentence length around 27 tokens.
 The average semantic similarity score value is 2.51.
 When scores are rounded to their nearest integer value, their distribution in the corpus is as follows:
 
