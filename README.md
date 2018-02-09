@@ -1,5 +1,5 @@
 # STS.news.sr - The Serbian Semantic Textual Similarity News Corpus
-The Serbian STS News Corpus consists of 1192 pairs of sentences in Serbian gathered from news sources on the web.
+The Serbian STS News Corpus (ISLRN [146-979-597-345-4](http://www.islrn.org/resources/146-979-597-345-4/)) consists of 1192 pairs of sentences in Serbian gathered from news sources on the web.
 Each sentence pair was manually annotated with fine-grained semantic similarity scores on the 0-5 scale.
 The final scores were obtained by averaging the individual scores of five annotators.
 
@@ -9,7 +9,7 @@ Details on the construction of that corpus can be found on the *paraphrase.sr* r
 
 Typographical errors within the 1194 sentence pairs of the Serbian Paraphrase Corpus were manually corrected.
 Any missing diacritical marks were restored as well.
-Two of the 1194 pairs were removed from the corpus - one was was found to be a duplicate and the other included a text longer than one sentence.
+Two of the 1194 pairs were removed from the corpus - one was found to be a duplicate and the other included a text longer than one sentence.
 The remaining 1192 pairs were annotated with fine-grained semantic similarity scores.
 
 ## Corpus annotation
@@ -51,7 +51,9 @@ When scores are rounded to their nearest integer value, their distribution in th
 |9.06%|14.93%|16.11%|39.43%|16.53%|3.94%|
 
 ## References
-TBA
+If you wish to use the Serbian STS News Corpus in your paper or project, please cite:
+
+**Fine-grained Semantic Textual Similarity for Serbian**, Vuk Batanovic, Miloš Cvetanovic, Boško Nikolic, in Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan (2018).
 
 ## Acknowledgement
 The annotation of the Serbian STS News Corpus was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (*ReLDI*) via the Swiss National Science Foundation grant no. 160501.
