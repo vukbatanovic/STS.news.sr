@@ -53,7 +53,7 @@ When scores are rounded to their nearest integer value, their distribution in th
 ## References
 If you wish to use the Serbian STS News Corpus in your paper or project, please cite:
 
-**Fine-grained Semantic Textual Similarity for Serbian**, Vuk Batanović, Miloš Cvetanović, Boško Nikolić, in Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan (2018).
+**Fine-grained Semantic Textual Similarity for Serbian**, Vuk Batanović, Miloš Cvetanović, Boško Nikolić, in Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC 2018), pp. 1370-1378, Miyazaki, Japan (2018).
 
 ## Acknowledgement
 The annotation of the Serbian STS News Corpus was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (*ReLDI*) via the Swiss National Science Foundation grant no. 160501.
