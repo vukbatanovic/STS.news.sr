@@ -42,7 +42,7 @@ Saveti:
 * (4) – Dve rečenice su uglavnom ekvivalentne, ali se neki nevažni detalji razlikuju.
     * Kratka, problematična košarkaška karijera Rikija Klemonsa u Misuriju je završena.
 
-      Misuri je izbacio Rikija Klemonsa, okončavajući njegovu prolematičnu karijeru u tom timu.
+      Misuri je izbacio Rikija Klemonsa, okončavajući njegovu problematičnu karijeru u tom timu.
 
     * Nekoliko država i savezna vlada kasnije su usvojile slične ili strože zabrane.
 
